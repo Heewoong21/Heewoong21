@@ -6,6 +6,3 @@ https://github.com/Heewoong21/2025RB
 https://band.us/band/97542809/post/13
 ### invideo.ai와 suno.ai 활용
 https://band.us/band/97542809/post/20
-### index.html 활용  
-https://heewoong21.github.io/testWeb/
-
